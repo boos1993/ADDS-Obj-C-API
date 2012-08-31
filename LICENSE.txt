@@ -1,0 +1,43 @@
+**The Author of this software does not claim affiliation with any of the below mentioned parties**
+
+The following license that starts at the header "SOFTWARE LICENSE:" applies to this software only. University Corporation for Atmospheric Research (UCAR) retains intellectual property to the information on their website, which include any data retrieved from their website using this software.
+
+By using this software, you are responsible for adhering to their terms of service which can be found at http://weather.aero/terms.
+
+	This includes adhering to the Experimental ADDS Data Server's "Best Practices" when making large or frequent queries to their server. The use of this software does not guarantee adherence to those rules. Please review the guidelines found at 
+	http://weather.aero/tools/dataservices/textdataserver/default/bestpractices
+before using this software.
+
+This software interacts with a "Experimental" ADDS Data Server. The documentation for the "Operational" ADDS Data Server can be found at 
+	http://aviationweather.gov/adds/dataserver.
+
+
+The following notice is required by UCAR to be displayed on any documents, media, printouts, and visualizations or other electronic or tangible expressions associated with, related to or derived from the ADDS Material or associated documentation:
+
+"The source of this ADDS Material is the Research Applications Laboratory (RAL) of the National Center for Atmospheric Research (NCAR), which is operated by the University Corporation for Atmospheric Research (UCAR) pursuant to a Cooperative Agreement with the National Science Foundation. Copyright © 2010, UCAR."
+
+
+
+
+SOFTWARE LICENSE:
+
+Copyright (c) 2012 Andrew Boos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
